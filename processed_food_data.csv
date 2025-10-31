@@ -1,0 +1,27 @@
+item_name,nf_calories,nf_total_fat,nf_sugars,nf_sodium,nf_protein,diabetes,obesity,bp,healthy
+"Ginger Beer, Jamaican Style",130,0.0,33.0,5.0,0.0,0,1,0,0
+"Protein Shake Mix, Original",110,4.0,10.0,130.0,2.0,1,1,1,0
+"Maple Syrup, Pure Vermont",200,0.0,53.0,5.0,0.0,0,1,0,0
+"Pickles, Sweet Relish",20,0.0,4.0,120.0,0.0,0,1,1,1
+"Pickles, Sweet Gherkins",40,0.0,9.0,170.0,0.0,0,0,1,0
+"Petite Snack Crunchers, Sweet Petite",40,0.0,9.0,220.0,0.0,1,0,0,0
+"Pickles, Old-Fashioned Sweet, Bread & Butter Chips",30,0.0,7.0,220.0,0.0,0,1,0,1
+Black Cherry Cream Hand-Crafted Soft Drink,168,0.0,43.0,15.0,0.0,0,1,0,0
+"Pecans, Glazed, Pecan Pie",150,11.0,10.0,125.0,1.0,0,1,0,0
+100 Calorie Packs Natural Almonds,100,9.0,1.0,0.0,4.0,1,0,0,1
+"Almonds, Dry Roasted",100,8.0,0.5,130.0,4.0,0,1,0,1
+Natural Almonds & Walnuts,100,9.0,0.5,0.0,3.0,0,0,0,1
+"100 Calorie Packs Cocoa Roast Almonds, Dark Chocolate",100,9.0,1.0,15.0,4.0,0,0,0,1
+"Milk Chocolate English Toffee Bar, Miniatures",230,14.0,26.0,150.0,1.0,0,0,1,0
+Mini Robin Eggs,140,4.0,21.0,50.0,0.0,1,0,1,0
+"Hard Candy, Original Flavors",70,0.0,11.0,0.0,0.0,0,0,0,0
+"Hard Candy, Sugar Free, Assorted",35,0.0,0.0,0.0,0.0,1,1,1,1
+"Potstickers, Pork & Vegetable Dumplings",280,8.0,4.0,640.0,12.0,1,1,1,0
+"Potstickers, Chicken & Vegetable Dumplings",260,7.0,4.0,600.0,12.0,1,1,1,0
+"Ice Cream, Double Vanilla",210,11.0,18.0,50.0,4.0,0,1,1,0
+"Ice Cream, Crushed Vanilla Bean",210,11.0,18.0,50.0,4.0,1,1,0,0
+"Corn Chips, Original",160,9.0,0.5,160.0,2.0,0,0,1,0
+"Roast Beef, Homestyle, Slow Roasted",70,2.0,1.0,500.0,10.0,1,1,0,1
+Pretzel Sticks,120,1.0,0.0,320.0,3.0,1,1,1,0
+1% Lowfat Milk Grade A Vitamin A&D,100,2.5,12.0,105.0,8.0,1,0,1,0
+Blueberry Lite Nonfat Yogurt,80,0.0,10.0,120.0,7.0,1,1,1,0
